@@ -36,6 +36,11 @@ Per effettuare l'invio sulla repository online usare il comando:
 ```powershell
 git push
 ```
+Per visualizzare da console tutti i comandi usare:
+
+```powershell
+git help
+```
 
 ***
 Prodotto da Davide Parisi.
